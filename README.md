@@ -1,3 +1,3 @@
-# prog-str-su-arantza-martinez-2c main
+# prog-str-su-arantza-martinez-2c dev
 # este es el repositorio del cuatrimestre lo vamoas a usar para guardar todos los trabajos 
 # 2c
