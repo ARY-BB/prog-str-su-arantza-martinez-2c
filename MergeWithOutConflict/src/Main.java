@@ -2,5 +2,7 @@ public class Main{
     public static void Main(String[]  args){
         System.out.println("semana 2");
         System.out.println("version base");
+        System.out.println("2+2=4 ");
+        System.out.println("5*3=5 ");
     }
 }
