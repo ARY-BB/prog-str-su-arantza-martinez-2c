@@ -1,2 +1,2 @@
 # prog-str-su-arantza-martinez-2c
-# ari es una santa 
+# este repositorio se usara para todo el cuatrimestre  
