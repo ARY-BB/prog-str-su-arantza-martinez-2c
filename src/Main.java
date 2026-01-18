@@ -19,6 +19,7 @@ public class Main{
     }
 
     /**
+
      *
      * @param n Se ocupa ese valor para saber hasta donde dejara de sumar
      * @return regresa el valor de sumarHastaN
