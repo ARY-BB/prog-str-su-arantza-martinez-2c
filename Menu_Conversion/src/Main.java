@@ -59,6 +59,6 @@ public class Main{
         System.out.println("°F a °C: "+c2);
         System.out.println("Km a Millas: "+c3);
         System.out.println("Millas a Km: "+c4);
-        System.out.println("total de conversiones: "+total);
+        System.out.println("total de conversiones es: "+total);
     }
 }
