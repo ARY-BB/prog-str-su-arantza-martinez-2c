@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" spacing="10.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.practicaexamen.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+    </padding>
+
+    <Label text="Nombre:"/>
+    <TextField fx:id="txtNombre"/>
+
+    <Label text="Teléfono:"/>
+    <TextField fx:id="txtTelefono"/>
+
+    <Label text="Parentesco:"/>
+    <ComboBox fx:id="Parentesco"/> <Separator/>
+
+    <Button text="Agregar" onAction="#Agregar"/>
+    <Button text="Buscar" onAction="#buscar"/>
+    <Button text="Actualizar" onAction="#actualizar"/>
+    <Button text="Eliminar" onAction="#delete"/>
+    <Button text="Limpiar" onAction="#limpiar"/>
+
+    <Separator/>
+
+    <Label text="Mis Contactos:"/>
+    <ListView fx:id="listaVista" prefHeight="150.0"/>
+</VBox>
